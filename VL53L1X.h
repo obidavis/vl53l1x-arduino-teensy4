@@ -1,7 +1,7 @@
 #pragma once
 
 #include <Arduino.h>
-#include <Wire.h>
+#include <i2c_driver_wire.h>
 
 class VL53L1X
 {
